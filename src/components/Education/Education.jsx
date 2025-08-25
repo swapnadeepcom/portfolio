@@ -11,7 +11,7 @@ export const education = [
     school: "College of Engineering and Management, Kolaghat",
     date: "Aug 2021 – June 2025",
     grade: "8.16 CGPA",
-    desc: "Pursuing B.Tech in Computer Science from College of Engineering and Management, Kolaghat. Gained strong knowledge in Data Structures, Algorithms, Web Development, and Machine Learning. Applied these skills in projects such as AI Finance Platform, Crop Recommendation System, and Spam Detection System.",
+    desc: "Completed B.Tech in Computer Science from College of Engineering and Management, Kolaghat. Gained strong knowledge in Data Structures, Algorithms, Web Development, and Machine Learning, and applied these skills in projects such as an AI Finance Platform, Crop Recommendation System, and Spam Detection System.",
     degree: "Bachelor of Technology - B.Tech (Computer Science)",
   },
   {
