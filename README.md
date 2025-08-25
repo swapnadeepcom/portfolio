@@ -22,7 +22,7 @@ It showcases my **skills, education, work experience, and projects** in a clean 
 ## 📸 Preview  
 Here’s a preview of my portfolio website:  
 
-![Portfolio Preview](./src/assets/Preview.png)  
+![Portfolio Preview](src/assets/Preview.png)  
 
 ---
 
