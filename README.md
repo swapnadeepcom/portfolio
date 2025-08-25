@@ -34,24 +34,25 @@ Here’s a preview of my portfolio website:
 ---
 
 ## 📂 Folder Structure
+```bash
 portfolio/
 ├── public/
 ├── src/
-│ ├── assets/ # Images & icons
-│ │ └── Preview.png # Website preview screenshot
-│ ├── components/ # Reusable components
-│ │ ├── About/
-│ │ ├── Contact/
-│ │ ├── Education/
-│ │ ├── Experience/
-│ │ ├── Footer/
-│ │ ├── Hero/
-│ │ ├── Navbar/
-│ │ ├── Skills/
-│ │ └── Work/
-│ ├── App.jsx
-│ ├── index.css
-│ ├── main.jsx
+│   ├── assets/          # Images & icons
+│   │   └── Preview.png  # Website preview screenshot
+│   ├── components/      # Reusable components
+│   │   ├── About/
+│   │   ├── Contact/
+│   │   ├── Education/
+│   │   ├── Experience/
+│   │   ├── Footer/
+│   │   ├── Hero/
+│   │   ├── Navbar/
+│   │   ├── Skills/
+│   │   └── Work/
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
 ├── package.json
 ├── tailwind.config.js
 └── README.md
